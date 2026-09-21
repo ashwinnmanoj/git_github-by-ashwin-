@@ -1,0 +1,8 @@
+a=input("what is your name?")
+b=input("which is your favorite programing language?")
+c=input("what is your favorite colour?")
+d=input("where do you live?")
+print(a)
+print(b)
+print(c)
+print(d)
